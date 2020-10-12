@@ -18,7 +18,7 @@ A short description of the project.
     │
     ├── references         <- Empty
     │
-    ├── reports            
+    ├── reports            <- one srt file , containing Analysis and best model to use for this problem
     │   └── figures        <- Generated  figures and recall precision value are pasted here as screenshot in word file
     │
     ├── requirements.txt   <- All the package dependency are listed here
